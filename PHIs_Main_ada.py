@@ -98,7 +98,7 @@ def main():
     all_hv_PredictedScore = []
 
     #Create file to write the novel interactions based on predicted scores
-    novel_HV_file = 'Novel_VHIs/'+args.data+'/'+args.data+'_top_novel_VHIs.csv'
+    novel_HV_file = 'Novel_PHIs/'+args.data+'/'+args.data+'_top_novel_VHIs.csv'
     if not os.path.exists(novel_HV_file):
         file = open(novel_HV_file, 'w')
         file.close()
