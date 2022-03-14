@@ -1,0 +1,6 @@
+d2shepp_k6.txt
+d2star_k6.txt
+Hao_k6.txt
+JS_k6.txt
+Teeling_k6.txt
+1380_221_simmat_dg-gip1.txt
